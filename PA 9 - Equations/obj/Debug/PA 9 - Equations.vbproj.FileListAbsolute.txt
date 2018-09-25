@@ -1,0 +1,11 @@
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\bin\Debug\PA 9 - Equations.exe.config
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\bin\Debug\PA 9 - Equations.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\bin\Debug\PA 9 - Equations.pdb
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\bin\Debug\PA 9 - Equations.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\obj\Debug\PA 9 - Equations.vbprojResolveAssemblyReference.cache
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\obj\Debug\PA_9___Equations.Form1.resources
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\obj\Debug\PA_9___Equations.Resources.resources
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\obj\Debug\PA 9 - Equations.vbproj.GenerateResource.Cache
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\obj\Debug\PA 9 - Equations.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\obj\Debug\PA 9 - Equations.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 9 - Equations\PA 9 - Equations\obj\Debug\PA 9 - Equations.pdb
